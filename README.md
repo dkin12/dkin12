@@ -27,5 +27,3 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkin12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Solved.ac
-dkin1020](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
