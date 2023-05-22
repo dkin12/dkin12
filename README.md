@@ -15,7 +15,7 @@
  <br/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=Kotlin&logoColor=#7F52FF">
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=#000000">
   <br/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=#000000">
