@@ -19,6 +19,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
   <img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=#000000">
+  <img src="https://img.shields.io/badge/android-000000?style=for-the-badge&logo=android&logoColor=#white">
    <br/>
    <br/>
 
