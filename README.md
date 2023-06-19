@@ -29,5 +29,4 @@
 
 
 ### 🏆Ability
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkin1020)](https://solved.ac/dkin1020)
-  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkin1020)](https://solved.ac/profile/dkin1020)
