@@ -26,4 +26,8 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkin12&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🏆Ability
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkin1020)](https://solved.ac/dkin1020)
   
